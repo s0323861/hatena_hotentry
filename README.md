@@ -20,4 +20,4 @@ A simple Perl application to display a hotentry rss feed in Bootstrap3.
 
 ### Licence
 
-  - MIT
+  - Copyright 2015 Akira Mukai. Licensed under the MIT License
